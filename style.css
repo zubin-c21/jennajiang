@@ -1,3 +1,12 @@
 body {
-
+  background-color: #99a1a6;
+}
+h1 {
+  background-color: #333138;
+  letter-spacing: 12px;
+  color: #ffffff;
+  font-family: monospace;
+}
+p {
+  font-family: fantasy;
 }
